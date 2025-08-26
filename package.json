@@ -28,6 +28,6 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"moment": "^2.29.4"
+		"moment": "git+https://git@github.com/verybestjp/moment.git"
 	}
 }
